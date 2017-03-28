@@ -1,0 +1,5 @@
+\contentsline {section}{\numberline {0.1}Introduction}{3}
+\contentsline {chapter}{\numberline {1}What is Embedded system}{5}
+\contentsline {chapter}{\numberline {2}History}{7}
+\contentsline {chapter}{\numberline {3}Importance of embedded systems in our daily life }{9}
+\contentsline {chapter}{\numberline {4}Embedded software architectures}{11}
